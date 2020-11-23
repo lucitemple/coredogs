@@ -1,0 +1,58 @@
+/* page content*/
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav { 
+    background-color: rgb(231, 244, 250);
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(3, 171, 248);
+    margin: 10px;
+    font-size: 1rem;
+}
+
+.exercise {
+    text-align: center;
+    margin: 40px;
+}
+
+/* Exercise content */
+main {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(247, 247, 241);
+    border: black solid 1px;
+    box-shadow: 8px 8px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 0px 5px;
+    max-width: 450px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+#intro {
+    font-weight: bold;
+    color: rgb(117, 40, 40);
+}
+
+#citation {
+    color: green;
+    font-style: italic;
+    font-size: .9rem;
+    word-wrap: break-word;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
