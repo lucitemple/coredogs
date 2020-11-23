@@ -22,37 +22,29 @@ nav a {
 
 /* Exercise content */
 main {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(247, 247, 241);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(229,235,223);
     border: black solid 1px;
     box-shadow: 8px 8px 8px 0 rgba(0, 0, 0, 0.2); 
     padding: 0px 5px;
     max-width: 450px;
     margin: auto;
     margin-top: 50px;
+    line-height: 1.5;
 }
 
 h1 {
     font-size: 2rem;
+    color: whitesmoke;
+    background-color: rgb(124,140,154);
 }
 
-h2 {
-    font-size: 1.5rem;
+main p {
+    color: rgb(112, 68, 68);
 }
 
-#intro {
-    font-weight: bold;
-    color: rgb(117, 40, 40);
-}
-
-#citation {
-    color: green;
-    font-style: italic;
-    font-size: .9rem;
-    word-wrap: break-word;
-}
-
-a {
-    text-decoration: none;
-    color: green;
+ul {
+    color: black;
+    list-style-type: none;
+    line-height: 2;
 }
