@@ -18,6 +18,7 @@ nav a {
 .exercise {
     text-align: center;
     margin: 40px;
+    text-decoration: normal;
 }
 
 /* Exercise content */
