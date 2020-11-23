@@ -23,7 +23,7 @@ nav a {
 /* Exercise content */
 main {
     font-family: 'Arial Black', Gadget, sans-serif;
-    background-color: rgb(231, 244, 250);
+    background-color: rgb(238,254,255);
     border: black solid 1px;
     box-shadow: 8px 8px 8px 0 rgba(0, 0, 0, 0.2); 
     padding: 0px 10px 10px 10px;
@@ -45,6 +45,6 @@ main p {
 }
 
 .warning {
-    color: red;
+    color:rgb(252,22,1);
 }
 
